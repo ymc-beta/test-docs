@@ -10,21 +10,19 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 [Tables]() E.g:
 
 | Column 1 | Column 2 |
-| --- | --- |
-| foo | bar |
+| -------- | -------- |
+| foo      | bar      |
 
 # Formatting conventions
 
 ***Bold italic text*** indicates names of UI elements, like buttons, menu items, or field labels (e.g., ***Save***, ***Cancel***)
 
-`Code text` indicates technical values and paths to specific screens (e.g. ***`Settings > General`***)
-
-> **Side note:** Additional notes or information for better understanding
+`Code text` indicates technical values and paths to specific screens (e.g. Go to ***`Settings > General`***, enter `100` pieces)
 
 > [!WARNING]
 > Warning callout to draw attention to undesirable effects, such as data loss.
 
-> [!NOTE]
+> [!NOTE] Info
 > Information callout to help the user understand the system and it's functions.
 
 To do action item for document editors (remove from final publication): 
