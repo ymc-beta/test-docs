@@ -22,7 +22,7 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 > [!WARNING]
 > Warning callout to draw attention to undesirable effects, such as data loss.
 
-> [!NOTE] Info
+> [!NOTE]
 > Information callout to help the user understand the system and it's functions.
 
 To do action item for document editors (remove from final publication): 
