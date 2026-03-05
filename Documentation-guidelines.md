@@ -2,7 +2,7 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 
 # Documentation format
 
-- Markdown standard basis: CommonMark
+- Markdown standard basis: [CommonMark](https://spec.commonmark.org/0.31.2/)
 - Extended with some **GitHub Flavored Markdown ([GFM](https://github.github.com/gfm/))** features, specifically:
 
 [Alerts/captions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts): See formatting conventions below for the specific tags used.
@@ -17,7 +17,7 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 
 ***Bold italic text*** indicates names of UI elements, like buttons, menu items, or field labels (e.g., ***Save***, ***Cancel***)
 
-`Code text` indicates technical values and paths to specific screens (e.g. `Settings > General`)
+`Code text` indicates technical values and paths to specific screens (e.g. ***`Settings > General`***)
 
 > **Side note:** Additional notes or information for better understanding
 
