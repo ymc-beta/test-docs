@@ -3,9 +3,15 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 # Documentation format
 
 - Markdown standard basis: CommonMark
-- Extended to use some **GitHub Flavored Markdown (GFM)** features, specifically:
-	- Alerts/captions: See formatting conventions below for the specific tags used
-	- Tables
+- Extended with some **GitHub Flavored Markdown ([GFM](https://github.github.com/gfm/))** features, specifically:
+
+[Alerts/captions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts): See formatting conventions below for the specific tags used.
+
+[Tables]() E.g:
+
+| Column 1 | Column 2 |
+| --- | --- |
+| foo | bar |
 
 # Formatting conventions
 
@@ -13,13 +19,13 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 
 `Code text` indicates technical values and paths to specific screens (e.g. `Settings > General`)
 
-> **Note:** Additional notes or information for better understanding
+> **Side note:** Additional notes or information for better understanding
 
-> [!warning]
-> Warning callout to draw attention to undesirable effects, such as data loss
+> [!WARNING]
+> Warning callout to draw attention to undesirable effects, such as data loss.
 
-> [!info]
-> Information to help the user understand the system and it's functions
+> [!NOTE]
+> Information callout to help the user understand the system and it's functions.
 
 To do action item for document editors (remove from final publication): 
 <!-- To do: -->
