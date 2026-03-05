@@ -17,7 +17,7 @@ This document is intended for authors and editors of the LISTA E-Control softwar
 
 ***Bold italic text*** indicates names of UI elements, like buttons, menu items, or field labels (e.g., ***Save***, ***Cancel***)
 
-`Code text` indicates technical values and paths to specific screens (e.g. Go to ***`Settings > General`***, enter `100` pieces)
+`Code text` indicates technical values and paths to specific screens (e.g: Go to ***`Settings > General`***, enter `100` pieces)
 
 > [!WARNING]
 > Warning callout to draw attention to undesirable effects, such as data loss.
@@ -61,14 +61,12 @@ Summary of the terminology conventions and terms used in this documentation. Use
 
 Use **log in** and **log out** (two words) as verbs in sentences and instructional headings that describe the action. E.g:
 
-> Users must **log in** to access E-Control.
-
-> **Log in** with username and password.
+- Users must **log in** to access E-Control
+- **Log in** with username and password
 
 Use **login** and **logout** (one word) as nouns or adjectives, or when mirroring UI button/labels (that use the noun form). E.g:
 
-> Enter your **login** credentials.
-
-> ***Login*** screen / ***Logout*** button
+- Enter your **login** credentials
+- ***Login*** screen / ***Logout*** button
 
 
