@@ -32,6 +32,7 @@ The navigation bar at the top of the screen provides easy access to all main fea
 | ----------------- | ------------------------------------------------------------------------ |
 | Username          | Shows the name of the currently logged-in user                           |
 | Language selector | Switch between the supported languages for the LISTA E-Control interface |
+
 The language selector allows the selection of the following languages:
 
 - English (EN)
